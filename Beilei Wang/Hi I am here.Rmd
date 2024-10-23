@@ -1,7 +1,0 @@
----
-title: "你的标题"
-author: "你的名字"
-output: md_document
----
-
-Hi I am here
